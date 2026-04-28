@@ -9,4 +9,7 @@ Conexões dos pinos:<br>
 
 Valor das resistências:<br>
 >Potenciômetros => 10k ohm;<br>
->Resistor => 10k ohm.
+>Resistor => 10k ohm.<br>
+
+Link para o vídeo com o funcionamento do circuito:<br>
+https://github.com/user-attachments/assets/cab864e2-2b06-4349-b75b-289eb8fb213b
