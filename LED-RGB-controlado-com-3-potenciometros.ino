@@ -1,7 +1,6 @@
 //pinos das cores do led rgb, eles devem ser conectados aos pinos PWM
  const int pino_vermelho = 11;
  const int pino_verde = 10;
-
  const int pino_azul = 9;
 //pinos analógicos dos potenciômetros
  const int pot_azul = A0;
